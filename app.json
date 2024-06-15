@@ -9,13 +9,13 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "Lakiyaa",
       "required" :true
     },   
      
     "WELCOME": {
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
-      "value": "true",
+      "value": "false",
       "required" :false
     },
      
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "mr Lakiyaa md"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -46,13 +46,13 @@
     },
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "",
+      "value": "HRKU-96938252-ef5d-4a05-bf9c-9982788f4cf0",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
       "description": "Put Your Heroku App Name Here",
       "value": "",
-    "required" :true
+    "required" :false
     }, 
     "MSGS_IN_LOG": {
       "description": "Fill the value -true- if you want to see Messages in logs.",
@@ -65,11 +65,11 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "94742659379"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
-      "value": ""
+      "value": "PRABATH-MD~yGAinaSC#8-X-5sr6cwwUhxcuZLKlSPnAcO5rjD1Vp7N5yNtnaXQ"
   
     },
     "OPENAI_API_KEY": {
